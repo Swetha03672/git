@@ -157,3 +157,58 @@ useradd hari
 cat /etc/passwd
 usradd venkat
 su - ec2-user
+ls
+git status
+touch f4
+ls
+git status
+git commit -m "jjj"
+git add .
+git commit -m "hh"
+git remote -v
+git remote add origin https://github.com/Swetha03672/git-practice.git
+git push -u master
+git push -u origin master
+git remote -v
+git fetch 
+ls
+ll
+git push -u origin master
+git pull -u origin master
+git pull origin master
+ls
+git init .
+git push -u origin master
+git push -f origin master
+touch f5
+ls
+git add .
+git status
+git commit -m "new one"
+git push -u origin master
+git push -f origin master
+git status
+ls
+git push -u origin master
+git push -f origin master
+ls
+git add .
+git status
+git commit -m "new commit"
+git push -u origin master
+git pull -u origin master
+git pull origin master
+git push -u origin master
+rm f5
+ls
+rm -rf f5
+ls
+touch f5
+ls
+git add .
+git status
+git commit -m "sec one"
+git push origin master
+git push -u origin master
+rm -rf f5
+ls
