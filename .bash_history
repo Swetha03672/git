@@ -212,3 +212,197 @@ git push origin master
 git push -u origin master
 rm -rf f5
 ls
+git add .
+git status
+git commit -m "new one"
+git push origin master
+gitremote -v
+git remote -v
+git remote remove origin
+git remote -v
+git add origin https://github.com/Swetha03672/git-practice.git
+git remote add origin https://github.com/Swetha03672/git-practice.git
+git remote -v
+git status
+git push origin master
+git push -f origin master
+git status
+git push origin master
+git push -f origin master
+git push origin master
+git status
+touch f{6..8}
+git add .
+git status
+git commit -m "old one"
+git status
+git push origin master
+ll
+git log
+mkdir git
+ll
+cd git
+ll
+git init
+cd ..
+ll
+cd git
+ls -al
+touch project1 project2
+ll
+vi project1
+git branch
+rm -rf project2
+ll
+git add .
+git commit -m "project 1 first commit"
+git branch
+git branch dev
+git branch
+git switch dev
+ll
+rm -rf project1 
+touch project2
+ll
+git switch master
+ll
+git branch
+git switch dev
+git add .
+git commit -m "project 2 file first commit"
+ll
+git log
+ll
+git switch master 
+ll
+gll
+ll
+git log
+vi project1 
+ll
+git status
+git stash apply 
+git stash
+git stash list
+touch file2
+cat >file2
+ll
+git status
+git stash
+ll
+git stash drop
+ll
+git status
+ll
+git stash pop
+ll
+vi project1 
+git status
+ll
+git stash
+git stash list
+vi file3
+git status
+git add file3 file2
+git status
+git commit -m "second commit"
+ll
+git log
+git stash apply
+git status
+vi project1 
+git stash
+git stash list
+git stash apply
+git stash list
+git stash drop
+git stash list
+git stash pop
+git stash list
+git stash pop
+git status
+git add .
+git commit -m "latest commit"
+git status
+git stash list
+git stash pop
+ll
+git loh
+git log
+git log --oneline
+git branch
+ll
+git switch dev
+ll
+git log
+git log --oneline
+touch file4
+cat >file4 
+git add file4
+git commit -m "file4 commit"
+git log --oneline
+git switch master
+git cherry-pick f3f5b0a
+ll
+cat file4
+git log --oneline
+git switch dev
+ll
+touch file{5..10}
+ll
+git add .
+git commit -m "new 6 files commit"
+git log --oneline
+git switch master 
+git cherry-pick 1f0d7bd -e
+ll
+git log --oneline 
+ls
+git ls-files
+touch file11
+git ls-files
+ls
+git log --oneline
+git log
+git log --oneline --all
+git log --oneline
+ls
+git ls-files
+git reset --mixed 1f7e3a6
+git log
+ls
+git ls-files
+git status
+git add .
+git commit -m "master branch commit"
+git log
+git log --oneline
+git reset --soft 4aef421
+git log
+ls
+git ls-files
+git reset --soft 4aef421
+ls
+git ls-files
+git log
+git log --oneline 
+git reset --hard 4aef421
+ls
+git reset --soft 1f7e3a6
+ls
+git ls-files
+git log --oneline 
+git status
+git commit "master branch commit"
+git commit -m "master branch commit"
+git log --oneline
+git reset --hard 1f7e3a6
+git log --oneline
+ls
+git ls-files
+git log --oneline 
+ll
+git status
+git init
+git status
+git add .
