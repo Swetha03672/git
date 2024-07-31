@@ -406,3 +406,23 @@ git status
 git init
 git status
 git add .
+touch f{1..3}
+ll
+git add .
+git status
+git commit -m "first commit"
+git stash
+vi f1
+ll
+git status
+git stash
+git stash apply
+git stash list
+cat >f2
+ll
+git status
+git stash
+git stash drop
+ll
+git status
+git stash pop

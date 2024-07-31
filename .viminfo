@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1722339922,,"wq"
+|2,0,1722350526,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,20 @@
 # Registers:
 
 # File marks:
-'0  1  20  ~/git/.git/COMMIT_EDITMSG
-|4,48,1,20,1722339922,"~/git/.git/COMMIT_EDITMSG"
-'1  2  15  ~/git/project1
-|4,49,2,15,1722337086,"~/git/project1"
-'2  2  0  ~/git/file3
-|4,50,2,0,1722336995,"~/git/file3"
-'3  2  15  ~/git/project1
-|4,51,2,15,1722336926,"~/git/project1"
+'0  1  13  ~/f1
+|4,48,1,13,1722350526,"~/f1"
+'1  1  20  ~/git/.git/COMMIT_EDITMSG
+|4,49,1,20,1722339922,"~/git/.git/COMMIT_EDITMSG"
+'2  2  15  ~/git/project1
+|4,50,2,15,1722337086,"~/git/project1"
+'3  2  0  ~/git/file3
+|4,51,2,0,1722336995,"~/git/file3"
 '4  2  15  ~/git/project1
-|4,52,2,15,1722336545,"~/git/project1"
+|4,52,2,15,1722336926,"~/git/project1"
 '5  2  15  ~/git/project1
 |4,53,2,15,1722336545,"~/git/project1"
-'6  2  0  ~/git/project1
-|4,54,2,0,1722336067,"~/git/project1"
+'6  2  15  ~/git/project1
+|4,54,2,15,1722336545,"~/git/project1"
 '7  2  0  ~/git/project1
 |4,55,2,0,1722336067,"~/git/project1"
 '8  2  0  ~/git/project1
@@ -47,12 +47,20 @@
 |4,57,2,0,1722336067,"~/git/project1"
 
 # Jumplist (newest first):
+-'  1  13  ~/f1
+|4,39,1,13,1722350526,"~/f1"
+-'  1  20  ~/git/.git/COMMIT_EDITMSG
+|4,39,1,20,1722339922,"~/git/.git/COMMIT_EDITMSG"
 -'  1  20  ~/git/.git/COMMIT_EDITMSG
 |4,39,1,20,1722339922,"~/git/.git/COMMIT_EDITMSG"
 -'  2  15  ~/git/project1
 |4,39,2,15,1722337086,"~/git/project1"
 -'  2  15  ~/git/project1
 |4,39,2,15,1722337086,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722337086,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722337086,"~/git/project1"
 -'  2  0  ~/git/file3
 |4,39,2,0,1722336995,"~/git/file3"
 -'  2  0  ~/git/file3
@@ -61,6 +69,22 @@
 |4,39,2,0,1722336995,"~/git/file3"
 -'  2  0  ~/git/file3
 |4,39,2,0,1722336995,"~/git/file3"
+-'  2  0  ~/git/file3
+|4,39,2,0,1722336995,"~/git/file3"
+-'  2  0  ~/git/file3
+|4,39,2,0,1722336995,"~/git/file3"
+-'  2  0  ~/git/file3
+|4,39,2,0,1722336995,"~/git/file3"
+-'  2  0  ~/git/file3
+|4,39,2,0,1722336995,"~/git/file3"
+-'  1  0  ~/git/file3
+|4,39,1,0,1722336981,"~/git/file3"
+-'  1  0  ~/git/file3
+|4,39,1,0,1722336981,"~/git/file3"
+-'  1  0  ~/git/file3
+|4,39,1,0,1722336981,"~/git/file3"
+-'  1  0  ~/git/file3
+|4,39,1,0,1722336981,"~/git/file3"
 -'  1  0  ~/git/file3
 |4,39,1,0,1722336981,"~/git/file3"
 -'  1  0  ~/git/file3
@@ -78,6 +102,18 @@
 -'  2  15  ~/git/project1
 |4,39,2,15,1722336926,"~/git/project1"
 -'  2  15  ~/git/project1
+|4,39,2,15,1722336926,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336926,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336926,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336926,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336545,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336545,"~/git/project1"
+-'  2  15  ~/git/project1
 |4,39,2,15,1722336545,"~/git/project1"
 -'  2  15  ~/git/project1
 |4,39,2,15,1722336545,"~/git/project1"
@@ -85,6 +121,18 @@
 |4,39,2,15,1722336545,"~/git/project1"
 -'  2  15  ~/git/project1
 |4,39,2,15,1722336545,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336545,"~/git/project1"
+-'  2  15  ~/git/project1
+|4,39,2,15,1722336545,"~/git/project1"
+-'  2  0  ~/git/project1
+|4,39,2,0,1722336067,"~/git/project1"
+-'  2  0  ~/git/project1
+|4,39,2,0,1722336067,"~/git/project1"
+-'  2  0  ~/git/project1
+|4,39,2,0,1722336067,"~/git/project1"
+-'  2  0  ~/git/project1
+|4,39,2,0,1722336067,"~/git/project1"
 -'  2  0  ~/git/project1
 |4,39,2,0,1722336067,"~/git/project1"
 -'  2  0  ~/git/project1
@@ -121,82 +169,34 @@
 |4,39,1,0,1722336043,"~/git/project1"
 -'  1  0  ~/git/project1
 |4,39,1,0,1722336043,"~/git/project1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
--'  2  17  ~/dir1/file1
-|4,39,2,17,1722249491,"~/dir1/file1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
+-'  1  0  ~/git/project1
+|4,39,1,0,1722336043,"~/git/project1"
 -'  2  17  ~/dir1/file1
 |4,39,2,17,1722249491,"~/dir1/file1"
 -'  2  17  ~/dir1/file1
@@ -249,6 +249,13 @@
 |4,39,2,17,1722249491,"~/dir1/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/f1
+	*	1722350523	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/git/.git/COMMIT_EDITMSG
 	*	1722339919	0
