@@ -426,3 +426,118 @@ git stash drop
 ll
 git status
 git stash pop
+touch f1
+ll
+git add .
+git status
+git commit -m "first one"
+git status
+git push origin master
+ks -al
+ls -al
+rm git
+rmdir git
+ll
+touch f{2..4}
+ll
+git add .
+git status
+git commit -m "sec one"
+git push origin master
+git branch
+git branch swetha
+git branch
+git switch swetha
+ll
+git push origin swetha
+ll
+rm git.
+git rm.
+ll
+rmdir git
+cd git
+ll
+rm -rf f*
+ll
+rm -rf
+ll
+rm project1
+ll
+cd ..
+cd rjay
+ll
+rm -rf
+ll
+rm -rf f*
+ll
+rm 'employee details.xlsx' 
+ll
+cd ..
+ll
+rmdir git
+rm -r git
+rm -r rjsy
+rm -r git
+rmdir rjay
+ll
+ls -a rjay
+rmdir rjay
+rm rjay/f
+cd rjay
+ll
+ls -al
+cd ..
+rm rjay/.
+rmdir rjay/.
+git branch
+git push origin --delete swetha
+git branch
+git remove -d swetha
+git branch -d swetha
+ll
+rm -rf f*
+ll
+cd git
+ll
+ls -al
+touch f{1..3}
+cat >file
+git status
+git add file
+git status
+git commit -m "new commit"
+git branch
+cat >f1
+git status
+git stash
+git status
+git switch dev
+ls -al
+git status
+vi f4
+git stash
+git stash push
+cd ..
+mkdir swe
+ls
+ls -al
+rmdir swe
+ls -al
+rmdir git
+rm -rf f*
+ls -al
+ls
+ls -al
+rmdir git
+cd git
+ll
+git --version
+git clone https://github.com/Swetha03672/git-1.git
+git branch
+git branch -d swetha
+git branch sweety
+git branch
+git switch sweety
+git branch -d swetha
+git branch -d sweety
+ll
